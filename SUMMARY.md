@@ -1,4 +1,4 @@
-设计模式
+语言与模式
 
 1. [Singleton](2015-02-03-singleton.md)
 2. [Factory](2015-02-04-factory.md)
